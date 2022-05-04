@@ -1,9 +1,9 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ImranKhanDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-imran-khan-38404717a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/dreamcoder2022)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Muhamma67489488)  
+(https://media-exp1.licdn.com/dms/image/C5616AQGA76WNwbOutw/profile-displaybackgroundimage-shrink_200_800/0/1651642757815?e=1657152000&v=beta&t=gPBQ0Kl79zoO1G8jI5t_81WHSjOZRzEHs0Bht81VB2M)
+
 
 ### Hi there 👋, my name is Muhammad Imran Khan
 #### I am A Frontend Web Developer.
-![I am A Frontend Web Developer.](https://media-exp1.licdn.com/dms/image/C5616AQGA76WNwbOutw/profile-displaybackgroundimage-shrink_200_800/0/1651642757815?e=1657152000&v=beta&t=gPBQ0Kl79zoO1G8jI5t_81WHSjOZRzEHs0Bht81VB2M)
-
+![I am A Frontend Web Developer.]
 I am a fresher Front End Developer, lifelong learner. I love technology and want to be a professional full-stack Web Developer. So I am continuously try to improve my skill for the competitive job market. I also try to my best to earn knowledge. I believe that my hard work and my dedication will bring me to success.
 
 Skills & Technologies:
