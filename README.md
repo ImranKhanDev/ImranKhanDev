@@ -3,7 +3,7 @@
 
 ### Hi there 👋, my name is Muhammad Imran Khan
 #### I am A Frontend Web Developer.
-![I am A Frontend Web Developer.]
+
 I am a fresher Front End Developer, lifelong learner. I love technology and want to be a professional full-stack Web Developer. So I am continuously try to improve my skill for the competitive job market. I also try to my best to earn knowledge. I believe that my hard work and my dedication will bring me to success.
 
 Skills & Technologies:
