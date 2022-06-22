@@ -10,8 +10,8 @@
 
 Skills: REACT / JS / HTML / CSS /CSS Framework.
 
-- 🔭 I’m currently working on Blossom 
-- 🌱 I’m currently learning  Advance Javascript . 
+- 🔭 I’m currently doing internship at Blossom 
+
 - 👯 I’m looking to collaborate on Github. 
 - 💬 Ask me about Frontend Development. 
 
