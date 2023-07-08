@@ -4,15 +4,15 @@
 ### Hi there 👋, my name is Muhammad Imran Khan
 #### I am A Frontend Web Developer.
 
- I love technology and want to be a professional full-stack Web Developer. So I am continuously try to improve my skill for the competitive job market. I also try to my best to earn knowledge. I believe that my hard work and my dedication will bring me to success.
+ I love technology and want to be a professional full-stack Web Developer. So I am continuously trying to improve my skill for the competitive job market. I also try my best to earn knowledge. I believe that my hard work and my dedication will bring me to success.
 
 
 
-Skills: REACT / JS / HTML / CSS /CSS Framework.
+Skills: Next js/ REACT / JS / HTML / CSS /CSS Framework.
 
-- 🔭 I’m currently doing internship at Blossom 
+- 🔭 I’m currently doing an internship at Blossom 
 
-- 👯 I’m looking to collaborate on Github. 
+- 👯 I’m looking to collaborate on GitHub. 
 - 💬 Ask me about Frontend Development. 
 
 
